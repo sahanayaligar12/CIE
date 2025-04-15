@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Vote {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); 
-    
+       System.out.println("This is master branch");
         System.out.println("Enter the age:");
         int age = scanner.nextInt(); 
 
